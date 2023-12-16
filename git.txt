@@ -1,2 +1,3 @@
 workin directory            index | staging area            History | commits
                                                                 git.txt
+                                                                main.py
